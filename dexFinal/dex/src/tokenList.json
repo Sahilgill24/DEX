@@ -1,0 +1,35 @@
+[
+    {
+        "ticker": "MATIC",
+        "img": "https://cdn.moralis.io/eth/0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0.png",
+        "name": "Matic Token",
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "decimals": 18
+    },
+    {
+        "ticker": "USDC",
+        "img": "https://cdn.moralis.io/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+        "name": "USD Coin",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "decimals": 6
+    },
+    
+    {
+        "ticker": "AAVE",
+        "img": "https://cdn.moralis.io/eth/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png",
+        "name": "AAVE",
+        "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "decimals": 18
+    },
+    {
+        "ticker":"APEcoin",
+        "img":"https://cryptologos.cc/logos/apecoin-ape-ape-logo.png?v=026",
+        "name":"apecoin",
+        "address":"0x4d224452801aced8b2f0aebe155379bb5d594381",
+        "decimals":18
+        
+
+    }
+
+
+]
